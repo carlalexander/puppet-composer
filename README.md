@@ -1,4 +1,7 @@
-puppet-composer
-===============
+# Composer Module
 
-Puppet module for Composer
+Puppet module designed to manage the Composer dependency manager.
+
+## Requirements
+
+Currently only tested using Ubuntu Quantal.
