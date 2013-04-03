@@ -1,3 +1,18 @@
+# Class: composer::package
+#
+# This module manages the composer package installation.
+#
+# Parameters:
+#
+# There are no default parameters for this class.
+#
+# Actions:
+#
+# Requires:
+#
+# Sample Usage:
+#
+# This class file is not called directly
 class composer::package {
   Exec {
     path => '/bin:/sbin:/usr/bin:/usr/sbin',
